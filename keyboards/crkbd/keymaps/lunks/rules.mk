@@ -1,0 +1,11 @@
+OLED_ENABLE = yes
+OLED_DRIVER = SSD1306
+
+# using an elite-c
+BOOTLOADER = atmel-dfu
+
+LTO_ENABLE = yes
+COMBO_ENABLE = no
+MOUSEKEY_ENABLE = yes
+WPM_ENABLE = no
+VIA_ENABLE = no
